@@ -1,0 +1,6 @@
+{
+  "/api/plaid/create-link-token/route": "app/api/plaid/create-link-token/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/page": "app/page.js"
+}
